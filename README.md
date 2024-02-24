@@ -1,8 +1,6 @@
-**#** Meu Projeto
-
 **##** Descrição
 
-Este projeto é um exemplo de como trabalhar com planilhas do Excel no Python usando a biblioteca pandas.
+Filta os simcards de uma planilha .xlsx com os dados obtidos da api da foxgps
 
 **##** Como Configurar
 
